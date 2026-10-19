@@ -1,11 +1,10 @@
 # Coordination of Spiral Waves in the Motor Cortex
-**Honours Research Project & Final Defense**  
 *School of Physics | Faculty of Science | The University of Sydney*
 
 - **Author:** Adam Karvon
 - **Supervisor:** Dr. Pulin Gong
 - **Degree:** Bachelor of Science and Bachelor of Advanced Studies (Honours)
-- **Submission Date:** May 17, 2024
+
 
 ---
 
